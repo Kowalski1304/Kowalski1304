@@ -12,7 +12,6 @@
 - Database Management MySQL
 - Web Development (HTML, CSS, JavaScript)
 - RESTful API Development and Integration
-- Code Versioning with Git
 
 ## Get in Touch
 
