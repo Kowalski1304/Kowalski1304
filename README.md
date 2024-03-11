@@ -17,6 +17,5 @@
 
 I'm always open to new projects and collaboration opportunities. If you're interested in working together or have any questions, please feel free to contact me via [email] or through my profiles on [GitHub] and [LinkedIn].
 
-[email]: vladmaslyuk.1304@gmail.com
 [GitHub]: https://github.com/Kowalski1304
 [LinkedIn]: https://www.linkedin.com/in/vladyslav-masluik-b77141283/
