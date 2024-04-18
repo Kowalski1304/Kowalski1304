@@ -7,11 +7,9 @@
 
 ### Skills
 
-- PHP Development
-- Laravel Framework
-- Database Management MySQL
-- Web Development (HTML, CSS, JavaScript)
-- RESTful API Development and Integration
+- PHP/Laravel
+- MySQL 
+- HTML/CSS/JavaScript
 
 ## Get in Touch
 
